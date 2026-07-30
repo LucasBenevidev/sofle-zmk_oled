@@ -108,9 +108,9 @@
 
             bindings = <
 &bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                      &trans     &trans    &trans       &trans     &trans     &trans
-&trans      &kp INS       &kp PSCRN     &kp K_CMENU   &trans        &M1cpfproibido                    &kp PG_UP  &trans    &kp UP       &trans     &kp N0     &trans
+&trans      &kp INS       &kp PSCRN     &kp K_CMENU   &trans        &M1cpfproibido                    &kp PG_UP  &trans    &kp UP       &trans     &kp N0     &kp PIPE
 &trans      &kp LALT      &kp LCTRL     &kp LSHFT     &M0proibido1  &kp CLCK                          &kp PG_DN  &kp LEFT  &kp DOWN     &kp RIGHT  &kp DEL    &kp BSPC
-&trans      &kp K_UNDO    &kp K_CUT     &kp K_COPY    &kp K_PASTE   &M3nome         &trans    &trans  &kp HOME   &kp END   &kp LC(END)  &kp RA(Q)  &kp RA(W)  &trans
+&trans      &kp K_UNDO    &kp K_CUT     &kp K_COPY    &kp K_PASTE   &M3nome         &trans    &trans  &kp HOME   &kp END   &kp LC(END)  &kp RA(Q)  &kp RA(W)  &kp NON_US_BACKSLASH
                           &trans        &trans        &trans        &trans          &trans    &trans  &trans     &trans    &trans       &trans
             >;
 
